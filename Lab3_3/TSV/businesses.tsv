@@ -1,0 +1,101 @@
+business_id	full_address	open	city	review_count	name	longitude	state	stars	latitude	type
+5UmKMjUEUNdYWqANhGckJw	4734 Lebanon Church Rd Dravosburg, PA 15034	True	Dravosburg	4	Mr Hoagie	-79.9007057	PA	4.5	40.3543266	business
+UsFtqoBl7naz8AVUBZMjQQ	202 McClure St Dravosburg, PA 15034	True	Dravosburg	4	Clancy's Pub	-79.8868138	PA	3.5	40.3505527	business
+3eu6MEFlq2Dg7bQh8QbdOg	1 Ravine St Dravosburg, PA 15034	True	Dravosburg	3	Joe Cislo's Auto	-79.889059	PA	5.0	40.3509559	business
+cE27W9VPgO88Qxe4ol6y_g	1530 Hamilton Rd Bethel Park, PA 15234	False	Bethel Park	5	Cool Springs Golf Center	-80.0146597	PA	2.5	40.3541155	business
+HZdLhv6COCleJMo7nPl-RA	301 South Hills Village Pittsburgh, PA 15241	True	Pittsburgh	5	Verizon	-80.05998	PA	2.5	40.35762	business
+mVHrayjG3uZ_RLHkLj-AMg	414 Hawkins Ave rankin, PA 15104	True	rankin	20	Emil's Lounge	-79.8802474	PA	5.0	40.4134643	business
+VHYT1qgQw5JvXAlUDhTArA	2101 Greentree Rd Ste B201 Pittsburgh, PA 15220	True	Pittsburgh	3	Extreme Fitness 2	-80.0708968	PA	2.5	40.3903858	business
+KayYbHCt-RkbGcPdGOThNg	141 Hawthorne St Greentree Carnegie, PA 15106	True	Carnegie	21	Alexion's Bar & Grill	-80.067534	PA	4.0	40.415517	business
+b12U9TFESStdy7CsTtcOeg	718A Hope Hollow Rd Carnegie, PA 15106	True	Carnegie	7	Flynn's Tire And Auto Service	-80.0844539	PA	2.5	40.394588	business
+Sktj1eHQFuVa-M4bgnEh8g	920 Forsythe Rd Carnegie Carnegie, PA 15106	False	Carnegie	4	Forsythe Miniature Golf & Snacks	-80.0762665	PA	4.0	40.4054039	business
+3ZVKmuK2l7uXPE6lXY4Dbg	8 Logan St Carnegie Carnegie, PA 15106	True	Carnegie	3	Quaker State Construction	-80.0903575	PA	2.5	40.406323	business
+QoDa50dc7g62xciFygXB9w	2080 Greentree Rd Pittsburgh, PA 15220	True	Pittsburgh	5	Greentree Animal Clinic	-80.0691338	PA	4.0	40.3922071	business
+1_lU0-eSWJCRvNGk78Zh9Q	300 Beechwood Ave Carnegie Carnegie, PA 15106	True	Carnegie	3	Carnegie Free Library	-80.0858661	PA	4.5	40.4068423	business
+_qopVQ6_Mz6W7-Pmbi56GQ	1011 Washington Ave Carnegie, PA 15106	True	Carnegie	3	Advance Auto Parts	-80.0824517	PA	3.5	40.3983526	business
+wJr6kSA5dchdgOdwH6dZ2w	2100 Washington Pike Carnegie, PA 15106	True	Carnegie	8	Kings Family Restaurant	-80.0932152	PA	3.5	40.3875124	business
+yXuao0pFz1AxB21vJjDf5w	2100 Washington Pike Carnegie, PA 15106	True	Carnegie	4	Shop N' Save	-80.0932152	PA	4.0	40.3875124	business
+F04xyOUA2xnUoCiWpx9iJA	Bower Hill Rd & Vanadium Rd Carnegie, PA 15106	True	Carnegie	3	Rossi Tailoring & Cleaners	-80.0843536574327	PA	3.0	40.3688246816964	business
+Cdcus0NADzyY3XiJM2O5Sg	1927 E Railroad St Carnegie, PA 15106	False	Carnegie	4	Heidelberg B P	-80.089241	PA	3.0	40.388284	business
+fNGIbpazjTRdXgwRY_NIXA	1201 Washington Ave Carnegie, PA 15106	True	Carnegie	7	Rocky's Lounge	-80.0849416	PA	4.0	40.3964688	business
+b9WZJp5L1RZr4F1nxclOoQ	1073 Washington Ave Carnegie, PA 15106	True	Carnegie	58	Gab & Eat	-80.0833859	PA	4.5	40.3980741	business
+zaXDakTd3RXyOa7sMrUE1g	202 3rd Ave Carnegie Carnegie, PA 15106	True	Carnegie	6	Barb's Country Junction Cafe	-80.089985	PA	3.5	40.404638	business
+zgy27FSnvwdINfk5cXBIyQ	520 North Bell Avenue Carnegie Carnegie, PA 15106	True	Carnegie	7	Extended Stay America - Pittsburgh - Carnegie	-80.088557	PA	3.5	40.417419	business
+WETE_LykpcnrC1sFcQ5EGg	215 E Main St Carnegie Carnegie, PA 15106	False	Carnegie	7	Paddy's Pour House	-80.085279	PA	3.0	40.40867	business
+6o3RK6rTcN3nw-j-r2nQmA	231 E Main St Carnegie Carnegie, PA 15106	True	Carnegie	4	Porto Fino Pizzaria & Gyro	-80.0848871	PA	2.5	40.4088068	business
+woOVJ0Z2f6XNCDntHA3b_g	117 E Mall Plz Carnegie Carnegie, PA 15106	True	Carnegie	10	Alteration World	-80.0876046	PA	4.5	40.4068712	business
+YX_cdwb0A62hdQRBiZJgtQ	301 Noblestown Rd East Carnegie Carnegie, PA 15106	True	Carnegie	3	Greentree Auto Body	-80.0667012	PA	2.5	40.4165426	business
+rv7CY8G_XibTx82YhuqQRw	Raceway Plz Carnegie, PA 15106	True	Carnegie	5	Long John Silver's	-80.0937037	PA	3.5	40.3868915	business
+e_U_FnpdKVgNb4mUN2cU_Q	2323 Greentree Rd Carnegie, PA 15106	True	Carnegie	8	Weinberg Lisa, DMD	-80.078657	PA	3.0	40.39076	business
+SQ0j7bgSTazkVQlF5AnqyQ	214 E Main St Carnegie Carnegie, PA 15106	True	Carnegie	9	Don Don Chinese Restaurant	-80.0849615	PA	2.5	40.4083473	business
+L0YSY79uzz_FIInvKmvyIw	312 2nd Ave Carnegie Carnegie, PA 15106	True	Carnegie	4	West Penn Dental Centers	-80.0904271	PA	4.0	40.4031063	business
+wqu7ILomIOPSduRwoWp4AQ	2180 Greentree Rd Pittsburgh, PA 15220	True	Pittsburgh	9	Denny's	-80.073788	PA	4.0	40.39114	business
+1u2NauOy8xDj7aFQET680A	100 Roessler Rd Carnegie, PA 15106	True	Carnegie	6	Amerifit	-80.060154	PA	3.0	40.394305	business
+P1fJb2WQ1mXoiudj8UE44w	200 E Main St Carnegie Carnegie, PA 15106	True	Carnegie	64	Papa J's	-80.0851737	PA	3.5	40.4081422	business
+8QlnAcjGE6dgfKTVoxrPvQ	300 Davis Blvd Etna Pittsburgh, PA 15275	True	Pittsburgh	3	Boston Market	-79.958717	PA	2.5	40.495167	business
+t_gan0EXAw8csKIeFyazJw	820 Amity St Homestead Homestead, PA 15120	True	Homestead	3	Homestead Capri Pizza	-79.9105266	PA	3.5	40.4067047	business
+3gmBc0qN_LtGbZAjTtHWZg	270 W Bridge St Homestead Homestead, PA 15120	True	Homestead	20	Starbucks	-79.916958	PA	3.5	40.407091	business
+sZ4uYs99km644ZMR1TO76A	3619 Main St Homestead, PA 15120	True	Homestead	3	Randy's Beer Barrel Pub	-79.9036345	PA	2.5	40.3846329	business
+yHTLTr-QN-loO_7XoxS8qg	660 Waterfront Dr E Homestead Munhall, PA 15120	True	Munhall	8	Michaels	-79.9037778	PA	3.0	40.4140637	business
+iQLLIdmJSt6LQHSjpZERLA	138 W Bridge St Homestead Homestead, PA 15120	True	Homestead	3	Yankee Candle Co.	-79.9163491	PA	4.0	40.4075854	business
+6ilJq_05xRgek_8qUp36-g	650 E  Waterfront Dr Homestead Munhall, PA 15120	True	Munhall	48	Steak 'n Shake	-79.9044562	PA	2.0	40.413496	business
+57HN9fGRar_GckBmgHgemA	280 Waterfront Dr E Homestead Homestead, PA 15120	False	Homestead	6	Filene's Basement	-79.9124082	PA	4.0	40.4116978	business
+MKyk4F4HSzHF8v-4cYe3Ww	171 E Bridge St Homestead Homestead, PA 15120	True	Homestead	30	Sing Sing	-79.9152619	PA	3.5	40.4094353	business
+0hrB2iwQZ52VZcZWYywXrA	101 E 7th Ave Homestead Homestead, PA 15120	True	Homestead	10	Joe Dilorio's Auto Body Shop	-79.912788	PA	4.5	40.40682	business
+gClSqcwuLsgyZRCzhJc7Dg	690 Waterfront Dr E Homestead Homestead, PA 15120	True	Homestead	8	Lowe's Home Improvement	-79.9016982	PA	3.0	40.4126484	business
+1qCuOcks5HRv67OHovAVpg	122 W 8th Ave Homestead Homestead, PA 15120	True	Homestead	26	Duke's Upper Deck Cafe	-79.912595	PA	3.5	40.405311	business
+sbW8qHJgzEIH42B0S-3New	180 E Waterfront Dr Homestead Homestead, PA 15120	True	Homestead	85	Dave & Buster's	-79.9141865	PA	2.5	40.4092932	business
+CgGT6sr4OCF2BHYngOIqlw	3804 Main St Homestead, PA 15120	True	Homestead	3	Paw's In the Family Pet Grooming	-79.904493	PA	5.0	40.383607	business
+W7ysp8GLCBrs0GXIVwAcBQ	610 William Marks Way Homestead Homestead, PA 15120	True	Homestead	5	Wendy's	-79.9017997	PA	2.0	40.4097098	business
+-taSf0shFSUKy9iCXnySsA	2615 Main St Homestead, PA 15120	True	Homestead	4	Italian Village Pizza	-79.9000102	PA	2.5	40.3925524	business
+McikHxxEqZ2X0joaRNKlaw	171 E Bridge St Homestead Homestead, PA 15120	True	Homestead	124	Rock Bottom	-79.9152619	PA	3.5	40.4094353	business
+frIRW4BGhdAWbSsG5ev2ng	1415 West St Homestead Homestead, PA 15120	True	Homestead	3	Master Muffler & Brakes	-79.9069188	PA	3.5	40.4023107	business
+tv8cS4aaA1VDaInYgggb6g	166 E Bridge St Homestead Homestead, PA 15120	True	Homestead	40	Improv Comedy Club	-79.9148477	PA	3.0	40.4089836	business
+eT5Ck7Gg1dBJobca9VFovw	420 Waterfront Dr E Homestead Homestead, PA 15120	True	Homestead	31	Giant Eagle	-79.908469	PA	3.5	40.4111498	business
+HwwEfnZKLNOUoqfgcwAgcQ	100 W Bridge St Homestead Homestead, PA 15120	True	Homestead	17	Barnes & Noble Booksellers	-79.918751	PA	3.5	40.4040168	business
+EoAY1JSVeJriBzId8lUQwQ	244 W Bridge St Homestead West Homestead, PA 15120	True	West Homestead	74	Bar Louie	-79.917508	PA	2.5	40.4070709	business
+uI0LvTXFACid1308KFO5ew	1000 Sandcastle Dr Hays Homestead, PA 15120	True	Homestead	16	Sandcastle Water Park	-79.9337369	PA	3.0	40.395691	business
+Y4CcDDyMoDpK7BbpKawWjw	401 E 8th Ave Homestead Homestead, PA 15120	True	Homestead	3	American Buyers Discount Mattress Store	-79.9073564	PA	5.0	40.4089932	business
+RxKrw38oyeYszQ6guY5b1A	207 E 16th Ave Apt 1 Homestead Homestead, PA 15120	True	Homestead	11	First Class Limousine Service	-79.904308	PA	5.0	40.4027249	business
+TfvWSIAMFZ9zI3y2-K6wOA	3360 Main St Munhall, PA 15120	True	Munhall	5	The Dragon Chinese Cuisine	-79.9029475	PA	3.5	40.3868368	business
+tU-YtoW339PXJmUGSix_AQ	185 Waterfront Dr W Homestead Homestead, PA 15120	True	Homestead	19	TGI Friday's	-79.9155451418884	PA	2.5	40.4108743190118	business
+6p9TlP2I8S4agxYMNFSDjg	205 East Waterfront Drive Homestead Homestead, PA 15120	True	Homestead	41	Uno Pizzeria & Grill	-79.9141364	PA	3.0	40.410967	business
+Eu3Iwje0YY8ectr-CxMgqg	The Waterfront Homestead Homestead, PA 15120	True	Homestead	4	Bath & Body Works	-79.9115741	PA	4.5	40.4107319	business
+XhbC5Qj5nBcqcKLPRd8izQ	229 W Bridge St Homestead Homestead, PA 15120	True	Homestead	3	Victoria's Secret	-79.9177191	PA	2.0	40.4078303	business
+FituZ4jYzRe41ac9uvcHaQ	126 West Bridge Street Homestead Homestead, PA 15120	True	Homestead	3	LOFT	-79.916227	PA	4.5	40.407859	business
+JDDeaNfb0JXD1NbznSIC9g	148 W Bridge St Homestead West Homestead, PA 15120	True	West Homestead	82	P.F. Chang's China Bistro	-79.9158429	PA	3.0	40.4073551	business
+oPX8bpZ3dqviYQuic0Ahqw	112 W Bridge St Homestead Homestead, PA 15120	True	Homestead	6	Gordon Shoes	-79.9160494	PA	4.0	40.408145	business
+FiXamVMgMf9U0VqFHDZSEA	210 W Bridge St Homestead West Homestead, PA 15120	True	West Homestead	22	Panera Bread	-79.916603	PA	3.0	40.407174	business
+LG_Dgv7u7P2ASDWU1RAyWQ	2114 West St Homestead Homestead, PA 15120	True	Homestead	3	Munhall Veterinary Hospital	-79.903166	PA	3.5	40.3973704	business
+ISKLP0qxApATxRlUDob6Cg	360 Waterfront Dr E Homestead Homestead, PA 15120	True	Homestead	21	Target	-79.9113203	PA	3.5	40.4121132	business
+DMy5IG-dNrH4ARk96KngEA	324 Amity St Homestead Homestead, PA 15120	True	Homestead	9	Men's Wearhouse	-79.91295	PA	2.5	40.40939	business
+uLnDFdn011hEroQQMLmxNQ	3502 Main St Munhall, PA 15120	True	Munhall	8	The Pizza Company	-79.9032997	PA	3.5	40.3857182	business
+rdATJvFQK4C73NIQ3zoY3w	520 East Waterfront Drive Homestead Homestead, PA 15120	True	Homestead	5	DSW Designer Shoe Warehouse	-79.9064005516943	PA	4.0	40.4115808363504	business
+g10zmpUzmMJOOIjj_JJPvg	490 Waterfront Dr E Homestead Homestead, PA 15120	True	Homestead	7	Bed Bath & Beyond	-79.9059313112722	PA	3.0	40.4117061676499	business
+eznh0XjVtv924K-KYx_ilQ	245 Waterfront Dr E Homestead Homestead, PA 15120	True	Homestead	43	Eat'n Park	-79.9132525	PA	3.0	40.4113236	business
+LQFWH1AKJlXGmEBlIKsBCw	580 Waterfront Dr E Homestead Homestead, PA 15120	True	Homestead	6	TJ Maxx	-79.9047005	PA	4.0	40.4119958	business
+LO2CjrNL8DXkvm9uALgRjQ	460 Waterfront Dr E Homestead Homestead, PA 15120	True	Homestead	9	Marshalls	-79.909169	PA	3.0	40.4127917	business
+usSROUMiAgPcxV3Ym0OxMQ	185 W Waterfront Dr Homestead Pittsburgh/Waterfront, PA 15120	True	Pittsburgh/Waterfront	99	Mitchell's Fish Market	-79.9180894261369	PA	3.5	40.4088783792259	business
+qfL7ZFkxqDZOPIaVVfT3Aw	560 E Waterfront Dr Homestead Homestead, PA 15120	True	Homestead	6	Old Navy	-79.906061	PA	3.0	40.412712	business
+GlYPVYSOVT7zn00Kk_Oz4g	The Waterfront 350 E Waterfront Dr Homestead Homestead, PA 15120	True	Homestead	7	Dick's Sporting Goods	-79.9075963	PA	3.0	40.4138973	business
+WaHXyBwljbKNPmmJZn5j8Q	1886 Homeville Rd West Mifflin, PA 15122	True	West Mifflin	3	Shop 'n Save	-79.8737336	PA	3.0	40.3736775	business
+bCw9HKDFLU_PppnNg-nIlw	1356 Hoffman Blvd West Mifflin, PA 15122	True	West Mifflin	3	Giant Eagle	-79.868392	PA	2.5	40.3823673	business
+CL3tZqbYT7B5zgewKCS6-Q	Kennywood & Hoffman West Mifflin, PA 15122	True	West Mifflin	3	McDonald's	-79.8626605	PA	1.0	40.3849854	business
+u22QDAON1kk0wjoTliyftw	4426 Kennywood Blvd West Mifflin, PA 15122	True	West Mifflin	3	Latina Pizza	-79.868305	PA	4.0	40.389192	business
+4ykgzzzGEWjMD5lwk1-l9A	347 Lebanon Rd West Mifflin, PA 15122	True	West Mifflin	16	Big Bang Bicycles	-79.9264919	PA	4.5	40.3715391	business
+53Yk2EODWnV9qHQECzeHVQ	1842 Homeville Rd West Mifflin, PA 15122	True	West Mifflin	4	Bellisario Pizza Shop	-79.8737336	PA	3.0	40.3736775	business
+iBZRphMDFcS2aMbawc1OvA	1822 Homeville Rd West Mifflin, PA 15122	True	West Mifflin	4	Hunan Wok Chinese Restaurant	-79.8737336	PA	5.0	40.3736775	business
+hnHt6EinzC-IX6y3GSF7jw	927 5th Ave McKeesport, PA 15132	True	McKeesport	11	Minerva Bakery	-79.8546832	PA	5.0	40.3520269	business
+LiMXTPwanF3LkkKHklFCjw	342 Island Ave Mc Kees Rocks, PA 15136	True	Mc Kees Rocks	33	Pierogies Plus	-80.0599791	PA	4.5	40.468873	business
+GJAv1nAfnHuab8oRyr8mXg	301 Chartiers Ave McKees Rocks, PA 15136	True	McKees Rocks	4	Eat'n Park Restaurant	-80.0579296	PA	4.0	40.4641404	business
+r8BwdblCW-ZUES37BL0khw	719 Broadway Ave McKees Rocks, PA 15136	True	McKees Rocks	17	Broadway Brunch	-80.074153	PA	4.5	40.472505	business
+mIiHJkpK8nZvW_45LlhrbA	824 Chartiers Ave Mc Kees Rocks, PA 15136	True	Mc Kees Rocks	12	Pasquarelli's Pizza House	-80.0653055	PA	4.0	40.4660133	business
+bN3jIkPqbqroQJteJsC2uw	715 Island Ave Mc Kees Rocks, PA 15136	True	Mc Kees Rocks	4	Island Avenue Tattoo	-80.0622046	PA	3.5	40.4728976	business
+OZfpG8tDCcIEq8pzgZdyKw	6570 Rt 60 Steubenville Pike McKees Rocks, PA 15136	True	McKees Rocks	6	Applebee's	-80.0656106	PA	3.5	40.46562	business
+OSYHPhvDWMqBRDZblqGiZA	1800 McKees Rocks Rd McKees Rocks, PA 15136	True	McKees Rocks	3	Giant Eagle	-80.097642	PA	3.5	40.467816	business
+8Nm_jcCYtMXYW0ODSHDiXA	4260 Steubenville Pike Pittsburgh, PA 15205	True	Pittsburgh	7	Sapporo Japanese Steakhouse	-80.0909106	PA	4.5	40.4400036	business
+9tAbTDdYTASHL7EU1e-OWw	500 Pine Hollow Rd Mc Kees Rocks, PA 15136	True	Mc Kees Rocks	3	Ricci Italian Sausage	-80.0969955	PA	4.5	40.4736321	business
+imM-x_nAxVtYGVFJJ4FS3Q	1122 E Carson St South Side Pittsburgh, PA 15203	True	Pittsburgh	6	Cindy Esser's Floral Shop	-79.9864887	PA	3.5	40.4285966	business
+T49ZvBa6mD4xHSmjHe-ArA	421 Lincoln Ave Bellevue Bellvue, PA 15202	True	Bellvue	14	R & B's Pizza Place	-80.0532928	PA	4.0	40.4941577	business
+TpLtXNrNK0FcmSLtNN7rpQ	4469 Ohio River Blvd Bellevue Pittsburgh, PA 15202	True	Pittsburgh	3	Valvoline Instant Oil Change	-80.0605548	PA	4.5	40.4906615	business
+eOv0Dbq2E8sd0CKMAqTImw	531 Lincoln Ave Bellevue Bellevue, PA 15202	True	Bellevue	17	Luigi's Pizzeria	-80.056877	PA	4.0	40.495887	business
